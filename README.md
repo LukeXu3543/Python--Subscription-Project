@@ -8,4 +8,5 @@ call center activity
 customer demographics
 product pricing info
 
-This project aims to analyze the traits of different customer groups and find out their subscription pattern.
+This project aims to analyze the traits of different customer groups and find out their subscription pattern. Specifically, the project will look at the
+churn rates of differents groups, which helps the company to identify its target customer better.
